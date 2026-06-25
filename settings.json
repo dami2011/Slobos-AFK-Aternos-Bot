@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ultimateplaying.falix.gg",
+    "ip": "playing.falix.me",
     "port": 28113,
     "version": "1.21.6",
     "try-creative": false
