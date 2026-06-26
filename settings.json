@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "playing.falix.me",
-    "port": 28113,
+    "ip": "node-fi-free-01.tickhosting.com:62025",
+    "port": 62025,
     "version": "1.21.6",
     "try-creative": false
   },
