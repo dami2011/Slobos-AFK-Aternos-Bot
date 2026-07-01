@@ -1,12 +1,12 @@
 {
-  "name": "Chineaza",
+  "name": "AFK",
   "bot-account": {
     "username": "Chinezu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "altas.ititan.org",
+    "ip": "91.200.220.10",
     "port": 25589,
     "version": "1.21.8",
     "try-creative": true
